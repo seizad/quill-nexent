@@ -1,0 +1,17 @@
+{
+  "name": "quill-nexent",
+  "homepage": "https://github.com/seizad/quill-nexent",
+  "authors": [
+    "seizad"
+  ],
+  "description": "bower package for Quill",
+  "main": "quill.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
